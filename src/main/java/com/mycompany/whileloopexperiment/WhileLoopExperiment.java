@@ -12,8 +12,10 @@ Scanner scanner = new Scanner(System.in);
 int age, height, weight;
 
 // I have decided to add a nice little print statement here
-System.out.println("Once upon time... ");
+System.out.println("Once upon a time... ");
 
+// I have decided to add another  little print statement here
+System.out.println("Once upon a time, there was a hobbit... ");
 
 //get user to input their age
 System.out.println("Hi there! Please enter your age: ");
