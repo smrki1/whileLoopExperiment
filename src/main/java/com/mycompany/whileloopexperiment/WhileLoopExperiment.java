@@ -11,6 +11,10 @@ Scanner scanner = new Scanner(System.in);
 //set variables to hold height age and weight
 int age, height, weight;
 
+// I have decided to add a nice little print statement here
+System.out.println("Once upon time... ");
+
+
 //get user to input their age
 System.out.println("Hi there! Please enter your age: ");
 age = scanner.nextInt();
